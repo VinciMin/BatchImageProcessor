@@ -5,15 +5,19 @@
 ## 文件批量重命名
 
 对于成百上千张图片，可以使用下方的代码快速的进行重命名，并且分类到指定的文件夹。
+[从Excel文件对图片重命名](https://github.com/VinciMin/BatchImageProcessor/blob/master/RenameFromExcel.py)
 
 ## 图片纵向合并
 
 有时候我们对一张图片中的切片进行批处理，而后又希望对切片进行纵向整合，可以用这里的代码。
+[图片纵向合并](https://github.com/VinciMin/BatchImageProcessor/blob/master/VerticalMergerImg.py)
 
 ## 文件夹批量合并为Zip
 
 对于图片分类之后产生的数十个文件夹，如何分别打包为Zip文件，方便地发送给客户呢？可以使用下方代码
+[文件夹批量合并为Zip](https://github.com/VinciMin/BatchImageProcessor/blob/master/MakeZip.py)
 
 ## gif文件批量转jpg
 
 网上gif的网站大都速度慢，并且有数量限制。这种情况下不妨使用以下代码。输入文件夹路径即可把所有的gif转为jpg，还能保持文件名称不变。
+[gif文件批量转jpg](https://github.com/VinciMin/BatchImageProcessor/blob/master/gif2jpg.py)
